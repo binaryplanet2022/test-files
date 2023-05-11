@@ -1,3 +1,4 @@
 "test git commands" 
 
+"created new branch named as add-second" <- this is edited at add-second branch
 
